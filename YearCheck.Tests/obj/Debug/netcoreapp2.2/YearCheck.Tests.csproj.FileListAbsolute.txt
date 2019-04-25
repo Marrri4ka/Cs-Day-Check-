@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.Tests.deps.json
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.Tests.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.Tests.pdb
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/bin/Debug/netcoreapp2.2/YearCheck.pdb
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck.Tests/obj/Debug/netcoreapp2.2/YearCheck.Tests.pdb

@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/bin/Debug/netcoreapp2.2/YearCheck.deps.json
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/bin/Debug/netcoreapp2.2/YearCheck.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/bin/Debug/netcoreapp2.2/YearCheck.pdb
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp2.2/YearCheck.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp2.2/YearCheck.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp2.2/YearCheck.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp2.2/YearCheck.AssemblyInfo.cs
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp2.2/YearCheck.dll
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp2.2/YearCheck.pdb
