@@ -21,7 +21,7 @@ namespace Year.Models
    {
      DateTime newDateTime = new DateTime (_year,  _month, _day);
 
-     return  "Monday";
+     return  newDateTime.DayOfWeek.ToString();
    }
 
  }

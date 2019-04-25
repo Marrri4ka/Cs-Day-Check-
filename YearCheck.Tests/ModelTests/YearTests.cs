@@ -12,13 +12,13 @@ namespace Year.Tests
     public void MyDateTest()
     {
       //Arrange
-         MyDate newDateTime = new MyDate (1991, 07, 30);
+         MyDate newDateTime = new MyDate (1998, 04, 25);
 
       //Act
       string result = newDateTime.GetDay();
       // Assert
 
-      Assert.AreEqual (result, "Monday");
+      Assert.AreEqual (result, "Saturday");
 
     }
   }
