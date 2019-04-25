@@ -9,10 +9,19 @@ namespace Year.Models
    private int _month;
    private int _day;
 
-   public Date (int year, int month, int day)
+   public int Date (int year, int month, int day) // constructor
    {
      _year = year;
      _month = month;
+     _day = day;
+   }
+
+   public string GetDay()
+
+   {
+     DateTime newDateTime = new DateTime (_year,  _month, _day);
+
+     return  "Monday";
    }
 
  }

@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp1.1/YearCheck.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp1.1/YearCheck.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp1.1/YearCheck.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Cs-Day-Check/YearCheck/obj/Debug/netcoreapp1.1/YearCheck.AssemblyInfo.cs
